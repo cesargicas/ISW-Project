@@ -1,0 +1,6 @@
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\ClassLibrary\obj\Debug\ClassLibrary.pdb

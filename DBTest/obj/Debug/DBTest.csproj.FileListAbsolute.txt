@@ -1,0 +1,15 @@
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\bin\Debug\DBTest.exe
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\bin\Debug\DBTest.pdb
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\bin\Debug\EntityFramework.dll
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\bin\Debug\UpvTubeLib.dll
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\bin\Debug\UpvTubeLib.pdb
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\bin\Debug\EntityFramework.xml
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\obj\Debug\DBTest.csproj.AssemblyReference.cache
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\obj\Debug\DBTest.csproj.CopyComplete
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\obj\Debug\DBTest.exe
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\obj\Debug\DBTest.pdb
+C:\Users\Alber\OneDrive - UPV\3º\Ingeniería de Sofware\Project\UPVTubeISW\DBTest\bin\Debug\UpvTubeLib.dll.config
